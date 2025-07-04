@@ -35,9 +35,9 @@ mcpstudy/
 - "OOO의 취미는 뭐야?"
 - "OOO의 직업은?"
 
-## personal_info_server 결과
-- Before
+## 결과
+### Before
 ![MCP 연결 전](images/personal_info_server_before.png)
 
-- After
+### After
 ![MCP 연결 후](images/personal_info_server_after.png)
