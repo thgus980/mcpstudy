@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "personal-info": {
+      "command": "C:/MyPython/mcpstudy/run_mcp_server.bat",
+      "args": [],
+      "env": {}
+    }
+  }
+} 
